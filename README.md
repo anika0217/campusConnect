@@ -1,7 +1,7 @@
 
   # CampusConnect Dashboard UI Design
 
-  This is a code bundle for CampusConnect Dashboard UI Design. The original project is available at https://www.figma.com/design/N6CXi474NgwzHUCWIpuolu/CampusConnect-Dashboard-UI-Design.
+ 
 
   ## Running the code
 
