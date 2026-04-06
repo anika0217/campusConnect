@@ -1,0 +1,10 @@
+# Supabase Configuration
+# This config disables auto-deployment of edge functions
+
+[functions]
+# Disable auto-deployment to prevent 403 errors
+auto_deploy = false
+
+# The app uses /utils/fallback-api.tsx instead of edge functions
+# Edge functions in /supabase/functions/server/ are not used
+enabled = false
