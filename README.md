@@ -195,15 +195,7 @@ git push origin feature-name
 
 ---
 
-## 👩‍💻 Author
-
-**Suhana Agrawal**
-
-LinkedIn: *(Add your profile)*
-
-GitHub: *(Add your profile)*
-
----
+s
 
 ## ⭐ Support
 
