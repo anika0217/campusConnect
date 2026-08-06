@@ -116,23 +116,7 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
 
-> Add screenshots of your project here.
-
-Example:
-
-```
-screenshots/
-├── login.png
-├── dashboard.png
-├── booking.png
-├── schedule.png
-```
-
-Then display them like:
-
-```md
 ### Dashboard
 
 ![Dashboard](screenshots/dashboard.png)
